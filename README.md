@@ -1,6 +1,8 @@
 # git-practice
 gittin practice
 
-## This repo will help you practice and git really really good with git
+#Hay gurl
 
-### Yo whats up
+### Yo whats the deal
+
+Yayyy read me
